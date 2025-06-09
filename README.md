@@ -1,6 +1,6 @@
 # 🛡️ Link Shield Bot  
 **Telegram Anti-Spam & Anti-Phishing Solution**  
-[👉 Try Link Shield Bot](https://t.me/aurra999_bot)  
+[👉 Try Link Shield Bot](https://t.me/@linkshield_bot)  
 
 > **Trusted by 500+ Groups** | **Protecting 10,000+ Daily Users**  
 
