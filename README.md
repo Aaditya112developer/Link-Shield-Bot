@@ -4,6 +4,12 @@
 
 > **Trusted by 500+ Groups** | **Protecting 10,000+ Daily Users**  
 
+
+🔹 Step 1: Add me to your group. 
+( Go to add members and type @linkshield_bot) 
+
+🔹 Step 2: Promote me to Admin with Delete messages permission.
+
 ---
 
 ## 🚀 Key Features
