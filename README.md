@@ -52,4 +52,4 @@
 ## 🤝 Contribute & Support
 
 - Feedback & suggestions welcome — open an Issue!  
-- Support the project: [Contact Developer "aaditya.kumar.saha1@gmail.com]
+- Support the project: [Contact Developer "aaditya.kumar.saha1@gmail.com"]
