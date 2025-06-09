@@ -34,10 +34,17 @@
 ### 📊 Analytics Snapshot
 
 ![Bot Analytics Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/706a27b0e6fbd58ae087ccd2580fcb45efdc0de8/stats.png)
+
+---
+
+---
 ### 🔍 Featured Groups Using Link Shield Bot
-![ Screenshot]()
-- [@perfectscore1600](https://t.me/perfectscore1600) ![ Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/c2df534de0092dbc4ce09f580e4cb919b3e43cf5/linkshield%20deployed%20proofs.png)
-- [CryptoSafeGroup](https://t.me/cryptosafegroup)
+
+
+ ![ SAT1600](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/c2df534de0092dbc4ce09f580e4cb919b3e43cf5/linkshield%20deployed%20proofs.png)
+
+
+- [SAT1600](https://t.me/perfectscore1600) And many more...
 
 ---
 
