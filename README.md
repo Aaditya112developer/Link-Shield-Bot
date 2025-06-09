@@ -43,7 +43,7 @@
 
 ## 🚀 Get Started Now
 
-1️⃣ [Add Link Shield Bot to Your Group](https://t.me/aurra999_bot)  
+1️⃣ [Add Link Shield Bot to Your Group](https://t.me/linkshield_bot)  
 2️⃣ Grant necessary permissions  
 3️⃣ Enjoy automated spam & phishing protection!  
 
@@ -52,4 +52,4 @@
 ## 🤝 Contribute & Support
 
 - Feedback & suggestions welcome — open an Issue!  
-- Support the project: [Contact Developer](https://t.me/aurra999_bot)  
+- Support the project: [Contact Developer "aaditya.kumar.saha1@gmail.com]
