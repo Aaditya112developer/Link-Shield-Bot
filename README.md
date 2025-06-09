@@ -30,7 +30,7 @@
 
 ### 📢 See it in Action
 
-- 🎥 [Watch Demo Video](YOUTUBE_LINK)
+- 🎥 [Watch Demo Video](https://youtu.be/1uv-FEu8jLk)
 - 📝 [Read Testimonials from Group Admins](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/952d74ffeca017f4759d710c6793bdcf7c0fe3ad/TESTIMONIALS.md)
 
 ---
