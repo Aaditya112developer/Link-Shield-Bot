@@ -33,8 +33,7 @@
 
 ### 📊 Analytics Snapshot
 
-![Bot Analytics Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/6b058923815e918c87c4f66c77a36b879062ff9e/stats.png)
-
+![Bot Analytics Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/706a27b0e6fbd58ae087ccd2580fcb45efdc0de8/stats.png)
 ### 🔍 Featured Groups Using Link Shield Bot
 
 - [PublicGroup1](https://t.me/publicgroup1)
