@@ -25,7 +25,7 @@
 ### 📢 See it in Action
 
 - 🎥 [Watch Demo Video](YOUTUBE_LINK)
-- 📝 [Read Testimonials from Group Admins](TESTIMONIALS.md)
+- 📝 [Read Testimonials from Group Admins](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/7a31e29ecb276573d4fc5990bcbd8b302a7091f7/TESTIMONIALS.md)
 
 ---
 
