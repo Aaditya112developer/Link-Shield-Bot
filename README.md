@@ -33,7 +33,7 @@
 
 ### 📊 Analytics Snapshot
 
-![Bot Analytics Screenshot](assets/bot_analytics_screenshot.png)
+![Bot Analytics Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/6b058923815e918c87c4f66c77a36b879062ff9e/stats.png)
 
 ### 🔍 Featured Groups Using Link Shield Bot
 
