@@ -36,7 +36,7 @@
 ![Bot Analytics Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/706a27b0e6fbd58ae087ccd2580fcb45efdc0de8/stats.png)
 ### 🔍 Featured Groups Using Link Shield Bot
 
-- [PublicGroup1](https://t.me/publicgroup1)
+- [@perfectscore1600](https://t.me/linkshield_bot)
 - [CryptoSafeGroup](https://t.me/cryptosafegroup)
 
 ---
