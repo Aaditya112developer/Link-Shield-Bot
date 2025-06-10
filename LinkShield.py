@@ -21,7 +21,7 @@ from telethon.tl.types import (
 # Setup logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# Replace with your own values
+# For Security Reason i have hidden my id,hash,token! you can replace with your own!
 api_id = "************"
 api_hash = "3e3b828*******06d0f170c2"
 bot_token = "738********y_1PQTJ4"
@@ -218,7 +218,7 @@ async def is_dangerous_mention(username: str) -> bool:
         entity_cache.put(username, None)
         return True
 
-BOT_OWNER_USERNAME = "Sanford2030"
+BOT_OWNER_USERNAME = "@Aaditya_Kr_Sah"
 
 async def is_group_owner_or_admin(event) -> bool:
     if event.is_group:
@@ -245,7 +245,7 @@ async def start_command(event):
         "• @username mentions of groups/channels\n\n"
         "Admins are allowed to bypass these rules.\n\n"
         "Use /help or /stats.\n\n"
-        "📩 owner: @Sanford2030\n"
+        "📩 owner: @Aaditya_Kr_Sah\n"
         "🔔 Updates: [Link Shield Updates](https://t.me/linkshield_updates)"
     )
     buttons = [
@@ -260,10 +260,10 @@ async def help_command(event):
     update_usage(event.sender_id)
     help_text = (
         "**How to Use This Bot**\n\n"
-        "1. **Add Bot to Group:** @Aura999_bot\n"
+        "1. **Add Bot to Group:** @linkshield_bot\n"
         "2. **Make Bot an Admin:** Enable **Delete messages** permission.\n\n"
         "I will automatically remove prohibited content.\n\n"
-        "For support, contact @Sanford2030."
+        "For support, contact @Aaditya_Kr_Sah."
     )
     await event.respond(help_text)
 
