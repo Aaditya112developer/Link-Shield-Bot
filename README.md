@@ -41,6 +41,9 @@
 
 ![Bot Analytics Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/706a27b0e6fbd58ae087ccd2580fcb45efdc0de8/stats.png)
 
+![Bot Server Usage Screenshot](https://github.com/Aaditya112developer/Link-Shield-Bot/blob/050535422b84ca25e6d96f0c8761f7832d4cd609/usage.png)
+
+
 ---
 
 ---
