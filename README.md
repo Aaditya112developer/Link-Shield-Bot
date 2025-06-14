@@ -68,5 +68,5 @@
 ## 🤝 Contribute & Support
 
 - Feedback & suggestions welcome — open an Issue!  
-- Support the project: [Developer Aaditya Kumar Sah](mailto:aaditya.kumar.saha1@gmail.com)
+- Contact: [Developer Aaditya Kumar Sah](mailto:aaditya.kumar.saha1@gmail.com)
 
