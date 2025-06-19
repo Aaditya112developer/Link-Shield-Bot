@@ -249,7 +249,7 @@ async def start_command(event):
         "🔔 Updates: [Link Shield Updates](https://t.me/linkshield_updates)"
     )
     buttons = [
-        [Button.url("Add me to your Group", "https://t.me/"keep ur own bot user name here"_bot?startgroup=new")]
+        [Button.url("Add me to your Group", "https://t.me/"@linkshield_bot"_bot?startgroup=new")]
     ]
     await event.respond(intro_message, buttons=buttons, parse_mode="Markdown")
 
