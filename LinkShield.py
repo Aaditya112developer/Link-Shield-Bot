@@ -23,8 +23,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 # For Security Reason i have hidden my id,hash,token! you can replace with your own!
 api_id = "************"
-api_hash = "3e3b828*******06d0f170c2"
-bot_token = "738********y_1PQTJ4"
+api_hash = "************"
+bot_token = "************"
 
 client = TelegramClient("bot", api_id, api_hash).start(bot_token=bot_token)
 
